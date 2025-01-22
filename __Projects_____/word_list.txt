@@ -1,0 +1,10 @@
+apple
+banana
+cucumber
+blackberry
+bluebarry
+kiwi
+guava
+dragonfruit
+pineapple
+kismish
